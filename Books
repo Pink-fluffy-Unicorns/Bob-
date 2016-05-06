@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>
-<header>
-  <title><Some books to read.>
-</header>
 <body>
 <h2>Awesome Books!</h2>
 <img src="http://www.mrsnelsons.com/sites/mrsnelsons.com/files/books.jpg" alt="Books!!!">
-<a>
+<header>
+  <title><Some books to read.>
+</header>
+<p>
 Treasure Hunters
 The Red Blazer Girls
 Because of Mr.Terrupt
@@ -20,6 +20,6 @@ Max Cassidy
 The last Wild
 Diary of the Wimpy Kid- Hard Luck
 Tinkle
-</a>
+</p>
 </html>
 </body>
