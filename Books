@@ -1,25 +1,49 @@
 <!DOCTYPE HTML>
 <html>
 <body>
-<h2>Awesome Books!</h2>
+<style>
+ol {
+    background: #ff0066;
+    padding: 20px;
+}
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+</style>
+<h1>Awesome Books!</h1>
 <img src="http://www.mrsnelsons.com/sites/mrsnelsons.com/files/books.jpg" alt="Books!!!">
 <header>
-  <title><Some books to read.>
+  <title> Some books to read </title>
 </header>
-<p>
-Treasure Hunters
-The Red Blazer Girls
-Because of Mr.Terrupt
-Bigger Than a Bread Box
-Dear Mr.Henshaw
-Wierd But true
-I am Malala
-El Deafo
-The Mapmaker and the Ghost
-Max Cassidy
-The last Wild
-Diary of the Wimpy Kid- Hard Luck
-Tinkle
-</p>
+
+<ol>
+  <li>Treasure Hunters</li>
+  <li>Red Blazer Girls</li>
+  <li>Beacuse of Mr.terrupt</li>
+<li>Bigger Than a Breadbox</li>
+<li>Dear Mr.Henshaw</li>
+<li>Wierd But True</li>
+<li>I am Malala</li>
+<li>The Homework Machine</li>
+<li>The Return of the Homework Machine</li>
+<li>Genius Files</li>
+<li>El Deafo</li>
+<li>The Mapmaker and the Ghost</li>
+<li>Max Cassidy</li>
+<li>The Last Wild</li>
+<li>Diary of the Wimpy Kid- Hard Luck</li>
+<li>Tinkle</li>
+</ol>
+
 </html>
 </body>
