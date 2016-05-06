@@ -6,7 +6,7 @@
 <body>
 <h2>Awesome Books!</h2>
 <img src="http://www.mrsnelsons.com/sites/mrsnelsons.com/files/books.jpg" alt="Books!!!">
-<p>
+<a>
 Treasure Hunters
 The Red Blazer Girls
 Because of Mr.Terrupt
@@ -20,6 +20,6 @@ Max Cassidy
 The last Wild
 Diary of the Wimpy Kid- Hard Luck
 Tinkle
-</p>
+</a>
 </html>
 </body>
