@@ -1,30 +1,32 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-<body>
+<head>
 <style>
 ol {
     background: #ff0066;
     padding: 20px;
 }
+
 ul {
-    background: #3399ff;
+    background: #0066ff;
     padding: 20px;
 }
+
 ol li {
     background: #ffe5e5;
     padding: 5px;
     margin-left: 35px;
 }
+
 ul li {
     background: #cce5ff;
     margin: 5px;
 }
 </style>
+</head>
+<body>
+
 <h1>Awesome Books!</h1>
-<img src="http://www.mrsnelsons.com/sites/mrsnelsons.com/files/books.jpg" alt="Books!!!">
-<header>
-  <title> Some books to read </title>
-</header>
 
 <ol>
   <li>Treasure Hunters</li>
@@ -45,5 +47,5 @@ ul li {
 <li>Tinkle</li>
 </ol>
 
-</html>
 </body>
+</html>
