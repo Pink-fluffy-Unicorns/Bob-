@@ -1,0 +1,16 @@
+  div {
+
+}
+
+.nav > div{
+background: #ffaaee; /* : #rrggbb */
+float: right;
+padding: 10px;
+border:4px dashed purple;
+border-radius: 30px
+
+}
+
+.nav > div:hover {
+ background :hotpink 
+}
